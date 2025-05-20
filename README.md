@@ -9,7 +9,7 @@ I'm currently working on a Personal Finance System to show off my current abilit
 ### Tech Stack :computer:
 
 Languages:
-JavaScript, PHP, Python, C#, C++, Java, Go, Kotlin.
+JavaScript, PHP, Python, C#, C++, Java, Go, Kotlin, HTML, CSS.
 
 Frameworks & Libraries:
 Next.js, React, Laravel, Express, Node.js, Flask, MonoGame.
