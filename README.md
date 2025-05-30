@@ -4,7 +4,7 @@ I'm a Software engineer/full-stack developer passionate about building clean, sc
 
 ### What I’m Working On :rocket:
 
-I'm currently working on a Personal Finance System to show off my current skills! (Haven't had much time to work on side projects.)<br/><br/>
+I'm currently working on improving my profile with new projects! For the moment, please standby.
 
 ### Tech Stack :computer:
 
